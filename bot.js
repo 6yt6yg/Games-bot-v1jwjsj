@@ -6,7 +6,7 @@ app.get("/", (request, response) => {
 });
 app.listen(process.env.PORT);
 setInterval(() => {
-  http.get(`http://ng-games.glitch.me/`);
+  http.get(`http://.glitch.me/`);/////////////////ضع اسم بروجكت حقك 
 }, 280000);
 
 ////////////////////
