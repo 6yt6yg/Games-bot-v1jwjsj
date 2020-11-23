@@ -135,7 +135,7 @@ client.on("message", message => {
       );
     };
     message.channel.send("**لديك __15__ ثانيه لتفكيك الكلمه**").then(msg => {
-      const w = ["./shuruhatik.png"]; //الخلفيه
+      const w = ["./shuruhatik.ml.png"]; //الخلفيه
       let Image = Canvas.Image,
         canvas = new Canvas(400, 150),
         ctx = canvas.getContext("2d");
@@ -237,7 +237,7 @@ client.on("message", message => {
       );
     };
     message.channel.send("**لديك __15__ ثانيه لحل هذه اللغز**").then(msg => {
-      const w = ["./shuruhatik.png"]; //الخلفيه
+      const w = ["./shuruhatik.ml.png"]; //الخلفيه
       let Image = Canvas.Image,
         canvas = new Canvas(400, 150),
         ctx = canvas.getContext("2d");
@@ -337,7 +337,7 @@ client.on("message", message => {
       );
     };
     message.channel.send("**لديك __15__ ثانيه لتركيب الكلمه**").then(msg => {
-      const w = ["./shuruhatik.png"]; //الخلفيه
+      const w = ["./shuruhatik.ml.png"]; //الخلفيه
       let Image = Canvas.Image,
         canvas = new Canvas(400, 150),
         ctx = canvas.getContext("2d");
@@ -439,7 +439,7 @@ client.on("message", message => {
     message.channel
       .send("** لديك __15__ ثانيه لكتابه هذه الكلمه بسرعة**")
       .then(msg => {
-        const w = ["./shuruhatik.png"]; //الخلفيه
+        const w = ["./shuruhatik.ml.png"]; //الخلفيه
         let Image = Canvas.Image,
           canvas = new Canvas(400, 150),
           ctx = canvas.getContext("2d");
@@ -543,7 +543,7 @@ client.on("message", message => {
       );
     };
     message.channel.send("**لديك __15__ ثانيه لحل المسئله**").then(msg => {
-      const w = ["./shuruhatik.png"]; //الخلفيه
+      const w = ["./shuruhatik.ml.png"]; //الخلفيه
       let Image = Canvas.Image,
         canvas = new Canvas(400, 150),
         ctx = canvas.getContext("2d");
@@ -648,7 +648,7 @@ client.on("message", message => {
       );
     };
     message.channel.send("**لديك __15__ لمعرفة العاصمه**").then(msg => {
-      const w = ["./shuruhatik.png"]; //الخلفيه
+      const w = ["./shuruhatik.ml.png"]; //الخلفيه
       let Image = Canvas.Image,
         canvas = new Canvas(400, 150),
         ctx = canvas.getContext("2d");
