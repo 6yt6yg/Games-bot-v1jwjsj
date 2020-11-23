@@ -1,3 +1,2 @@
-# Get Started!
-
-Add files and start typing 🎉
+# bot-games-discord
+Bot for games
